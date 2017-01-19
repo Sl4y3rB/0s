@@ -1,203 +1,125 @@
 #EXTM3U
-#EXTINF:-1,ALB_3Plus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/171.ts
-#EXTINF:-1,ALB_AbcNews
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/240.ts
-#EXTINF:-1,ALB_alsadm
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/212.ts
-#EXTINF:-1,ALB_alsadm2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/213.ts
-#EXTINF:-1,ALB_alsat3
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/214.ts
-#EXTINF:-1,ALB_bangbang
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/201.ts
-#EXTINF:-1,ALB_BBF
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/250.ts
-#EXTINF:-1,ALB_BIGBR1_Supersonic
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/248.ts
-#EXTINF:-1,ALB_Cegrani
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/254.ts
-#EXTINF:-1,ALB_ChannelOne
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/224.ts
-#EXTINF:-1,ALB_CufoTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/162.ts
-#EXTINF:-1,ALB_DigiGold
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/204.ts
-#EXTINF:-1,ALB_EraTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/172.ts
-#EXTINF:-1,ALB_ExplorerHistori
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/239.ts
-#EXTINF:-1,ALB_explorernazre
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/173.ts
-#EXTINF:-1,ALB_explorerskenc
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/238.ts
-#EXTINF:-1,ALB_filmaksion
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/159.ts
-#EXTINF:-1,ALB_FilmAutor
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/235.ts
-#EXTINF:-1,ALB_FilmDrame
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/168.ts
-#EXTINF:-1,ALB_filmdyhd
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/256.ts
-#EXTINF:-1,ALB_FilmHits
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/169.ts
-#EXTINF:-1,ALB_FilmHitsPlus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/170.ts
-#EXTINF:-1,ALB_filmkomedi
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/166.ts
-#EXTINF:-1,ALB_filmnjhd
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/258.ts
-#EXTINF:-1,ALB_FilmThriller
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/167.ts
-#EXTINF:-1,ALB_FirstTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/247.ts
-#EXTINF:-1,ALB_folkplus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/249.ts
-#EXTINF:-1,ALB_humor1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/209.ts
-#EXTINF:-1,ALB_IslamTv
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/178.ts
-#EXTINF:-1,ALB_JollyHD
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/234.ts
-#EXTINF:-1,ALB_Junior
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/210.ts
-#EXTINF:-1,ALB_klan
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/215.ts
-#EXTINF:-1,ALB_klan2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/163.ts
-#EXTINF:-1,ALB_klankosova
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/202.ts
-#EXTINF:-1,ALB_kohatetovo
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/205.ts
-#EXTINF:-1,ALB_kohavision
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/246.ts
-#EXTINF:-1,Alb_Ksport1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/191.ts
-#EXTINF:-1,Alb_Ksport2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/192.ts
-#EXTINF:-1,Alb_Ksport3
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/193.ts
-#EXTINF:-1,Alb_Ksport4
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/194.ts
-#EXTINF:-1,ALB_Mediast
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/244.ts
-#EXTINF:-1,ALB_MekaTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/176.ts
-#EXTINF:-1,ALB_Muse
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/206.ts
-#EXTINF:-1,ALB_NatGeoALB
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/221.ts
-#EXTINF:-1,ALB_news24
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/242.ts
-#EXTINF:-1,ALB_oranews
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/243.ts
-#EXTINF:-1,ALB_Peace
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/179.ts
-#EXTINF:-1,ALB_PlusHD
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/161.ts
-#EXTINF:-1,ALB_QuranTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/177.ts
-#EXTINF:-1,ALB_rtk1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/198.ts
-#EXTINF:-1,ALB_rtk2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/164.ts
-#EXTINF:-1,ALB_rtk3
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/165.ts
-#EXTINF:-1,ALB_rtk4
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/181.ts
-#EXTINF:-1,ALB_rtv21
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/195.ts
-#EXTINF:-1,ALB_rtv21plus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/196.ts
-#EXTINF:-1,ALB_RtvIslam
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/175.ts
-#EXTINF:-1,ALB_RtvPopullore
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/197.ts
-#EXTINF:-1,ALB_SkyAction
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/185.ts
-#EXTINF:-1,ALB_SkyHistory
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/187.ts
-#EXTINF:-1,ALB_SkyKomedy
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/186.ts
-#EXTINF:-1,ALB_SkyMax
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/184.ts
-#EXTINF:-1,ALB_SkyNovela
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/189.ts
-#EXTINF:-1,ALB_SkyShkence
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/188.ts
-#EXTINF:-1,ALB_Smile
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/236.ts
-#EXTINF:-1,ALB_SSKosova1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/255.ts
-#EXTINF:-1,ALB_SSKosova2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/253.ts
-#EXTINF:-1,ALB_supersport1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/260.ts
-#EXTINF:-1,ALB_supersport2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/220.ts
-#EXTINF:-1,ALB_supersport3
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/211.ts
-#EXTINF:-1,ALB_supersport4
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/261.ts
-#EXTINF:-1,ALB_Tip
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/237.ts
-#EXTINF:-1,ALB_TiranaTv
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/203.ts
-#EXTINF:-1,ALB_topchanel
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/216.ts
-#EXTINF:-1,ALB_topnews
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/174.ts
-#EXTINF:-1,ALB_TPlus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/241.ts
-#EXTINF:-1,ALB_tringfantasy
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/226.ts
-#EXTINF:-1,ALB_tringhistory
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/228.ts
-#EXTINF:-1,ALB_TringKomedy
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/232.ts
-#EXTINF:-1,ALB_TringLife
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/229.ts
-#EXTINF:-1,ALB_TringMax
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/190.ts
-#EXTINF:-1,ALB_TringPlanet
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/225.ts
-#EXTINF:-1,ALB_tringshiqip
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/227.ts
-#EXTINF:-1,ALB_TringSport1
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/262.ts
-#EXTINF:-1,ALB_TringSport2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/222.ts
-#EXTINF:-1,ALB_TringSport3
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/252.ts
-#EXTINF:-1,ALB_TringSport4
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/263.ts
-#EXTINF:-1,ALB_TringSportNews
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/200.ts
-#EXTINF:-1,ALB_TringSuper
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/231.ts
-#EXTINF:-1,ALB_tringtring
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/230.ts
-#EXTINF:-1,ALB_TringWorld
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/233.ts
-#EXTINF:-1,ALB_Tv2
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/199.ts
-#EXTINF:-1,ALB_TvGlobi
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/251.ts
-#EXTINF:-1,ALB_TVMitrovica
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/182.ts
-#EXTINF:-1,ALB_TVOpoja
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/183.ts
-#EXTINF:-1,ALB_tvsh
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/208.ts
-#EXTINF:-1,ALB_tvshenja
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/160.ts
-#EXTINF:-1,ALB_TvTeuta
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/257.ts
-#EXTINF:-1,ALB_vizionplus
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/245.ts
-#EXTINF:-1,ALB_ZjarrTV
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/217.ts
-#EXTINF:-1,CacciaePesca
-http://50.7.113.2:8000/live/alb063/tgEDCplo91/524.ts
+#EXTINF:-1,***** XXX ADULT *****
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/26.ts
+#EXTINF:-1,XXX | VIP CHANNEL
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/48.ts
+#EXTINF:-1,XXX | VIP CHANNEL 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/47.ts
+#EXTINF:-1,XXX | VIP CHANNEL 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/46.ts
+#EXTINF:-1,XXX | PENTHOUSE HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/44.ts
+#EXTINF:-1,XXX | HUSTLER HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/43.ts
+#EXTINF:-1,XXX | BLUE HUSTLER TV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/42.ts
+#EXTINF:-1,XXX | DORCEL TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/41.ts
+#EXTINF:-1,XXX | BRAZZERS HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/40.ts
+#EXTINF:-1,XXX | BRAZZERS EUROPE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2725.ts
+#EXTINF:-1,XXX | BLACKED
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2727.ts
+#EXTINF:-1,XXX | RU
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/39.ts
+#EXTINF:-1,XXX | SCT HQ
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/38.ts
+#EXTINF:-1,XXX | SCT 1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/37.ts
+#EXTINF:-1,XXX | SCT 2
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/36.ts
+#EXTINF:-1,XXX | SCT 3
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/35.ts
+#EXTINF:-1,XXX | PLAYBOY TV HD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/34.ts
+#EXTINF:-1,XXX | YESILCAM ADULT
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/33.ts
+#EXTINF:-1,XXX | SEXTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2981.ts
+#EXTINF:-1,XXX | SCT1
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2982.ts
+#EXTINF:-1,XXX | REDHOTSEXTU
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2983.ts
+#EXTINF:-1,XXX | PRIVATESPACE
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2984.ts
+#EXTINF:-1,XXX | PORNOXHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2988.ts
+#EXTINF:-1,XXX | PENTHOUSEHD
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2979.ts
+#EXTINF:-1,XXX | PASSIONXXX
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2987.ts
+#EXTINF:-1,XXX | MARCDORCELTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2985.ts
+#EXTINF:-1,XXX | DARINGTV
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2980.ts
+#EXTINF:-1,XXX | BABESTATIONXTREME
+http://193.70.116.156:8080/live/azerty55/3HIBGDkzlj/2986.ts
+#EXTINF:-1,VENUS XXX
+http://tvhd.dynu.com:8000/live/man/MAN/964.ts
+#EXTINF:-1,PLAYBOY XXX
+http://tvhd.dynu.com:8000/live/man/MAN/979.ts
+#EXTINF:-1,HOT XXX
+http://tvhd.dynu.com:8000/live/man/MAN/985.ts
+#EXTINF:-1,HOT HD XXX
+http://tvhd.dynu.com:8000/live/man/MAN/5772.ts
+#EXTINF:-1,PENTHOUSE HD XXX
+http://tvhd.dynu.com:8000/live/man/MAN/4156.ts
+#EXTINF:-1,Hustler HD XXX
+http://tvhd.dynu.com:8000/live/man/MAN/1881.ts
+#EXTINF:-1,Redlight HD XXX
+http://tvhd.dynu.com:8000/live/man/MAN/4941.ts
+#EXTINF:-1,Jasmin TV HD XXX
+http://tvhd.dynu.com:8000/live/man/MAN/417.ts
+#EXTINF:-1,ADULTI LIVE HD1
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/213.ts
+#EXTINF:-1,ADULTI LIVE HD2
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/214.ts
+#EXTINF:-1,ADULTI LIVE HD3
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/215.ts
+#EXTINF:-1,ADULTI LIVE HD4
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/235.ts
+#EXTINF:-1,ADULTI LIVE HD5
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/236.ts
+#EXTINF:-1,ADULTI LIVE HD6
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/660.ts
+#EXTINF:-1,ADULTI LIVE HD7
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/661.ts
+#EXTINF:-1,ADULTI LIVE HD8
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/662.ts
+#EXTINF:-1,ADULTI LIVE HD9
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/663.ts
+#EXTINF:-1,ADULTI LIVE HD10
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/664.ts
+#EXTINF:-1,ADULTI LIVE HD11
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/675.ts
+#EXTINF:-1,ADULTI LIVE HD12
+http://blackhome.myvisio.me:8000/live/ondemandPorta/E6R7t9hllK/676.ts
+#EXTINF:-1,PLAYBOY TV
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1822.ts
+#EXTINF:-1,XX- HotClub 06*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1827.ts
+#EXTINF:-1,XX- HotClub 07*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1828.ts
+#EXTINF:-1,XX- HotClub 08*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1829.ts
+#EXTINF:-1,XX- HotClub 10
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1831.ts
+#EXTINF:-1,XX- HotClub 11*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1832.ts
+#EXTINF:-1,XX- HotClub 12*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1833.ts
+#EXTINF:-1,XX- HotClub 13*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1834.ts
+#EXTINF:-1,XX- HotClub 18*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1838.ts
+#EXTINF:-1,XX- HotClub 19*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1839.ts
+#EXTINF:-1,XX- HotClub 20*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1840.ts
+#EXTINF:-1,XX- HotClub 21*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1841.ts
+#EXTINF:-1,XX- HotClub 22*
+http://masteriptv.dnsfor.me:8000/live/pinheiro/pinheiro/1842.ts
 
 S|4y3rB  a.k.a  0s

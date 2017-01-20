@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,RTK 1
+http://www.rtklive.com/sq/livestream/rtk1/
+#EXTINF:-1,RTK 2
+http://www.rtklive.com/sq/livestream/rtk2/
+#EXTINF:-1,RTK 3
+http://www.rtklive.com/sq/livestream/rtk3/
+#EXTINF:-1,RTK 4
+http://www.rtklive.com/sq/livestream/rtk4/
+#EXTINF:-1,Radio Kosova 1
+http://www.rtklive.com/sq/livestream/radio/radio_kosova.html
+#EXTINF:-1,Radio Kosova 2
+http://www.rtklive.com/sq/livestream/radio/radio_kosova2.html
 #EXTINF:-1,ENGLISH UK
 http://newlook.ddns.net:9880/live/amy1_94940/45028/2854.ts
 #EXTINF:-1,---intrattenimento UK---
